@@ -1,1 +1,1 @@
-web: gunicorn procurement_dash.ipynb:server
+web: gunicorn procurement_dash:gserver
