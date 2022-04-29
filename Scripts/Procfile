@@ -1,1 +1,1 @@
-web: gunicorn procurement_dash:gserver
+web: gunicorn procurement_dash:segrver
