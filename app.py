@@ -15,7 +15,7 @@ import pandas as pd
 # %% md
 # Data Exploration
 # %%
-df = pd.read_csv('../Assets/contracts_data.csv')
+df = pd.read_csv('contracts_data.csv')
 df.head()
 # %%
 df.info()
