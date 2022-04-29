@@ -1,1 +1,1 @@
-web: gunicorn procurement_dash:server
+web: gunicorn dashdeploy:server
